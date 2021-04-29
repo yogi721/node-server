@@ -7,7 +7,7 @@ const data = require('./data')
 
 // foreach
 
-data.companies.forEach(company => {
-    console.log(company.end);
-});
+// data.companies.forEach(company => {
+//     console.log(company.end);
+// });
 
